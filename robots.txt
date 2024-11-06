@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://otugeexo.github.io/MLg/sitemap_index.txt
+Sitemap: https://otugeexo.github.io/UJs/sitemap_index.txt
+Sitemap: https://otugeexo.github.io/USF/sitemap_index.txt
+Sitemap: https://otugeexo.github.io/VeL/sitemap_index.txt
